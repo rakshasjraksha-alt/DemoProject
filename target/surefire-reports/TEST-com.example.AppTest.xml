@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.example.AppTest" time="0.021" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.example.AppTest" time="0.039" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="21"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.class.path" value="C:\Users\Administrator\DemoProject\target\test-classes;C:\Users\Administrator\DemoProject\target\classes;C:\Users\Administrator\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
+    <property name="java.class.path" value="C:\Users\Administrator\demoproject\target\test-classes;C:\Users\Administrator\demoproject\target\classes;C:\Users\Administrator\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -15,9 +15,9 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-21\bin"/>
-    <property name="sun.java.command" value="C:\Users\Administrator\AppData\Local\Temp\surefire683259917524087934\surefirebooter-20251204192422904_3.jar C:\Users\Administrator\AppData\Local\Temp\surefire683259917524087934 2025-12-04T19-24-22_121-jvmRun1 surefire-20251204192422904_1tmp surefire_0-20251204192422904_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\Administrator\AppData\Local\Temp\surefire1259136310793057409\surefirebooter-20251213231840313_3.jar C:\Users\Administrator\AppData\Local\Temp\surefire1259136310793057409 2025-12-13T23-18-40_109-jvmRun1 surefire-20251213231840313_1tmp surefire_0-20251213231840313_2tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="C:\Users\Administrator\DemoProject\target\test-classes;C:\Users\Administrator\DemoProject\target\classes;C:\Users\Administrator\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
+    <property name="surefire.test.class.path" value="C:\Users\Administrator\demoproject\target\test-classes;C:\Users\Administrator\demoproject\target\classes;C:\Users\Administrator\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\Administrator"/>
     <property name="user.language" value="en"/>
@@ -25,12 +25,12 @@
     <property name="java.version.date" value="2025-07-15"/>
     <property name="java.home" value="C:\Program Files\Java\jdk-21"/>
     <property name="file.separator" value="\"/>
-    <property name="basedir" value="C:\Users\Administrator\DemoProject"/>
+    <property name="basedir" value="C:\Users\Administrator\demoproject"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\Administrator\AppData\Local\Temp\surefire683259917524087934\surefirebooter-20251204192422904_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Administrator\AppData\Local\Temp\surefire1259136310793057409\surefirebooter-20251213231840313_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="21.0.8+12-LTS-250"/>
@@ -58,5 +58,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="65.0"/>
   </properties>
-  <testcase name="testApp" classname="com.example.AppTest" time="0.005"/>
+  <testcase name="testApp" classname="com.example.AppTest" time="0.004"/>
 </testsuite>
